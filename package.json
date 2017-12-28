@@ -57,6 +57,7 @@
     "redux": "^3.6.0",
     "redux-auth-wrapper": "^1.0.0",
     "redux-thunk": "^2.2.0",
+    "truffle": "^4.0.1",
     "uport-connect": "^0.6.1"
   },
   "scripts": {
@@ -103,5 +104,20 @@
   },
   "eslintConfig": {
     "extends": "react-app"
-  }
+  },
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andersonmmi/people-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andersonmmi/people-list/issues"
+  },
+  "homepage": "https://github.com/andersonmmi/people-list#readme",
+  "description": ""
 }
